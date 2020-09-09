@@ -1,4 +1,4 @@
-# sanity-template-kitchen-sink
+# Concept Theory Site: Sanity+Gatsby Kitchen Sink
 
 _Fully customizable examples of page building, blog template and more examples with a React.js front-end._
 
